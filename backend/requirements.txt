@@ -1,0 +1,8 @@
+flask>=2.3.0
+flask-cors>=4.0.0
+groq>=0.4.0
+gtts>=2.4.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+werkzeug>=2.3.0
+vosk>=0.3.45
