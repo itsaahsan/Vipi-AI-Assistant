@@ -1,7 +1,7 @@
 # Vipi - AI Assistant
 
 A full-stack AI Assistant web application using only free APIs and services.
-# Vipi---AI-Assistant
+
 
 ## 🚀 Features
 
